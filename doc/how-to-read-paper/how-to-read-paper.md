@@ -110,3 +110,6 @@
 
 第三步是前往网站了解这些重要会议并查看最近的会议记录。快速扫描通常会识别最近高质量的相关工作。这些文件，以及您之前留下的文件，构成您调查的第一个版本。通过这些文件两次通过。如果他们都引用了你以前没有找到的关键论文，那么获取并阅读它，必要时进行迭代。  
 
+## 参考资料
+
+- [https://github.com/developer-learning/night-reading-papers/issues/3](https://github.com/developer-learning/night-reading-papers/issues/3)
