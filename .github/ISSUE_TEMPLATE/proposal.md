@@ -3,17 +3,15 @@ name: Paper reading proposal
 about: Create a proposal to read a paper
 ---
 
-## 论文题目
+## 论文题目<font color="red">*</font>
 
 How to Read a Paper
 
-## 论文链接
+## 论文链接<font color="red">*</font>
 
 https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf
 
-***
-
-## 论文设计领域
+## 论文设计领域<font color="red">*</font>
 
 - 论文阅读 
 - 方法论
@@ -22,7 +20,7 @@ https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf
 
 - 无
 
-## 论文摘要
+## 论文摘要<font color="red">*</font>
 
 blahblah(可以参考论文abstract，但最好有自己见解，必要情况可以配图，需要写出自己的见解)
 
@@ -35,7 +33,8 @@ blahblah(可以参考论文abstract，但最好有自己见解，必要情况可
 - https://www.bmj.com/about-bmj/resources-readers/publications/how-read-paper
 - http://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html
 
-***
+----
+
 ## 预计讨论时间
 
 2019-07-01 20:00:00 (建议至少距离 issue 提出日期 7 天以上，具体间隔可根据 author 时间安排和论文难度调整，串讲人需要提前准备 PPT/keynote 等演示文档)
